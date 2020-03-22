@@ -1,0 +1,22 @@
+{
+  "name": "gsorm",
+  "version": "0.0.1",
+  "description": "Google App Scripts ORM",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/macap/gsorm.git"
+  },
+  "author": "Maciej Caputa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/macap/gsorm/issues"
+  },
+  "homepage": "https://github.com/macap/gsorm#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
